@@ -89,9 +89,9 @@ The program follows these main steps:
 
 After processing the user's information, the program displays:
 
-Your BMR: XXXX kcal
-Your TDEE (maintenance calories): XXXX kcal
-Recommended daily calorie intake: XXXX kcal
+- Your BMR: XXXX kcal
+- Your TDEE (maintenance calories): XXXX kcal
+- Recommended daily calorie intake: XXXX kcal
 # DEMO
 ```text
 Enter your age (13-120): 17
