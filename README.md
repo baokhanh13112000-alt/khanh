@@ -70,21 +70,21 @@ print(f"Recommended daily calorie intake: {daily_calories:.0f} kcal")
 
 The program follows these main steps:
 
-User Input
-    ↓
-Input Validation
-    ↓
-Calculate BMR
-    ↓
-Select Activity Level
-    ↓
-Calculate TDEE
-    ↓
-Select Personal Goal
-    ↓
-Calculate Recommended Calories
-    ↓
-Display Results
+    User Input
+        ↓
+    Input Validation
+        ↓
+    Calculate BMR
+        ↓
+    Select Activity Level
+        ↓
+    Calculate TDEE
+        ↓
+    Select Personal Goal
+        ↓
+    Calculate Recommended Calories
+        ↓
+    Display Results
 # Output
 
 After processing the user's information, the program displays:
