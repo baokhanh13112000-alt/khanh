@@ -93,7 +93,7 @@ Your BMR: XXXX kcal
 Your TDEE (maintenance calories): XXXX kcal
 Recommended daily calorie intake: XXXX kcal
 # DEMO
-
+```text
 Enter your age (13-120): 17
 Enter your weight (kg): 70
 Enter your height (cm, 50-251): 175
@@ -109,4 +109,5 @@ Recommended daily calorie intake: 2556 kcal
 
 
 ** Process exited - Return Code: 0 **
+```
 
